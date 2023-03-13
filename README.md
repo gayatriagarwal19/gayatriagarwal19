@@ -5,6 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatriagarwal19" alt="gayatriagarwal19" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
+- 🐧 Junior Developer & Event Manager at **Web Design & Creative Team, CCA NIT Durgapur.**
 
 - 📫 How to reach me **gayatri19agarwal@gmail.com**
 
