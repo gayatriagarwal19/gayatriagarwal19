@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gayatri Agarwal</h1>
 
 ## 💫 About Me:
-🌱 I’m currently learning Data Structures and Algorithms
+🌱 I’m currently learning MERN Stack. 
 
 
 ## 🌐 Socials:
